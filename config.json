@@ -1,1 +1,1 @@
-{ "cache": true, "link": "https://example.com/page" }
+{ "cache": false, "link": "https://www.python.org/" }
